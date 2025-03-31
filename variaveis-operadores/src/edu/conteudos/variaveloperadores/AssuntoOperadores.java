@@ -1,4 +1,4 @@
-package edu.conteudos;
+package edu.conteudos.variaveloperadores;
 
 public class AssuntoOperadores {
     /**

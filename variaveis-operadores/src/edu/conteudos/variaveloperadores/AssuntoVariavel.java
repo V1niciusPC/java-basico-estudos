@@ -1,4 +1,4 @@
-package edu.conteudos;
+package edu.conteudos.variaveloperadores;
 
 public class AssuntoVariavel {
     // ao declarar uma variavel cuidado ao não chama-la isso pode ocorrer em algum erro.
