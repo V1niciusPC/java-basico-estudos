@@ -21,5 +21,8 @@ public class AtividadeUm {
 
         System.out.println("A área do Retangulo é: "+ area); // mostra na tela
         System.out.println("\n O Perimetro do Retangulo é: " + perimetro); // mostra na tela.
+
+        dados.close();
     }
 }
+    

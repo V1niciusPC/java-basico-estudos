@@ -19,6 +19,8 @@ public class AtividadeDois {
         novoSalario = salario + (salario*porcentagem/100);
 
         System.out.println("O novo salario é R$"+ novoSalario);
+
+        valor.close();
         
     
     }
