@@ -1,4 +1,4 @@
-package edu.exercicios.operadoresvariavies;
+package edu.conteudos.variaveloperadores.exercicios;
 
 import java.util.Scanner;
 
